@@ -58,6 +58,10 @@ This project involves analyzing and predicting credit card default risk using hi
   - Recent Bill Amounts
   - Credit Limit
 
+## Data Source
+- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- **License**: Public domain
+
 ## How to Run the Notebook
 
 ### Prerequisites
